@@ -5,7 +5,6 @@ hahaha, how i stupid that i forgot the palce you are studying.
 yabi,how are you?
 <<<<<<< HEAD
 国庆节快乐~
-hauah ...
-=======
-happy everyday ~git
->>>>>>> yun
+hauah 
+happy everyday git yun
+挺好玩,wish you have the national day,happy~
